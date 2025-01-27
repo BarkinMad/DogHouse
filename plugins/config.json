@@ -1,0 +1,15 @@
+{
+    "ZoomEye": {
+        "api_key": ""
+    },
+    "Hunter": {
+        "api_key": ""
+    },
+    "CriminalIP": {
+        "api_key": ""
+    },
+    "Manual Entry": {
+        "enabled": true,
+        "config": {}
+    }
+}
