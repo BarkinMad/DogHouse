@@ -21,7 +21,7 @@ Installation
     bash
     Copy
 
-    git clone https://github.com/yourusername/dog-house.git
+    git clone https://github.com/BarkinMad/DogHouse
     cd dog-house
 
     Install Dependencies:
